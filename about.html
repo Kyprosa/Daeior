@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <html lang="ko-KR">
 <head>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-182802074-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-182802074-1');
+	</script>
+
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="./about.css">
@@ -11,24 +22,30 @@
 
 <body>
 	<header>
-            <div class="nav-wrapper">
-                <div class="logo white">
-                    <a href="index.html">물들임</a>
+		 <div class="wrapper-menu">    
+            <nav>
+                <div class="logo">
+                    <a href="#">물들임</a>
                 </div>
-        <!-- navigation -->
-                <nav>
+    <!-- navigation -->
+                <div class="nav-menu-wrapper">
                     <a href="#">꽃말</a>
-                    <a href="flowers-color-menu.html">이야기</a>
+                    <a href="#">이야기</a>
                     <a href="#">사진첩</a>
-                </nav>
-            </div>
+                </div>
+            </nav>
+        </div>
+
+       
     </header>
-        <!-- hero-section -->
-    <section class="hero">
-            <div class="text-wrapper-lg">
-                <h1 class="heading-text">About Flowers</h1>
-            </div>
-    </section>
+
+	<!-- hero-section -->
+    <div class="hero">
+        <div class="text-wrapper-lg">
+            <h1 class="heading-text">
+            	About Flowers
+            </h1>
+    </div>
 
 	<section class="conB">
 		<div class="container">
@@ -60,22 +77,18 @@
 		</div>
 	</section>
 
-	<footer>
-		<div class="footer-text-wrapper">
-			<div class="footer-logo">물들임</div>
-			<nav>
-                <a href="#">꽃말</a>
-                <a href="flowers-color-menu.html">이야기</a>
-                <a href="#">사진첩</a>
-            </nav>
-				<p>
-					주소: 한국산업기술대학교 디자인학부<br>
-					<a href="http://subweb.kpu.ac.kr/inderdesign/index.do">http://subweb.kpu.ac.kr/inderdesign/index.do/</a>
-				</p>
-			<div class="footer-text">
-				ⓒ TINTED corp. All rights reserved.
-			</div>
-		</div>
-	</footer>
+    <footer>
+        <hr>
+        
+        <div class="footer-text-wrapper">
+            <div class="footer-logo">
+                물들임
+            </div>
+            <p>대표: 국대한/최수현/홍유석 <br>
+                COPYRIGHTⓒKoreaPolytechnicUniversityAll. rights reserved.  
+             </p>
+        </div>
+    </footer>
+
 </body>
 </html>
