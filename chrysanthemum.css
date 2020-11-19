@@ -4,7 +4,7 @@
     box-sizing: border-box;
     }
     
-    * { font-family: 'Spoqa Han Sans', 'Sans-serif'; }
+    * { font-family: 'Roboto', sans-serif; }
     :root {
         --main-color: #F7CD37;
         --emphasis-color: #4CCC90;

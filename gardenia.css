@@ -4,7 +4,7 @@
     box-sizing: border-box;
     }
     
-    * { font-family: 'Roboto', sans-serif; }
+    * { font-family: 'Rotobo', sans-serif; }
     :root {
         --main-color: #F7CD37;
         --emphasis-color: #4CCC90;
@@ -143,7 +143,7 @@
         padding-right: 48px;
         max-width: 1128px;
         height: 400px;
-        background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,1)), url("https://contents.sixshop.com/thumbnails/uploadedFiles/20571/product/image_1542560028369_750.jpg");
+        background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,1)), url("https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile2.uf.tistory.com%2Fimage%2F1308290F4A2FAFA28F9A50");
         background-size: cover;
         background-position: center; 
         text-align: right;
@@ -156,7 +156,7 @@
     }
     @media (max-width: 767px) {
         .section-explain-card {
-            background-image: linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.6)),url("https://contents.sixshop.com/thumbnails/uploadedFiles/20571/product/image_1542560028369_750.jpg");
+            background-image: linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.6)),url("https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile2.uf.tistory.com%2Fimage%2F1308290F4A2FAFA28F9A50");
         }
         
     }
@@ -238,13 +238,13 @@
     }
     /* 대표 이미지 넣는 곳 */
     .first {
-        background-image: url("https://t1.daumcdn.net/cfile/tistory/245B52385918FBCB04");
+        background-image: url("https://t1.daumcdn.net/cfile/blog/2125C93956B5464C2C");
     }
     .second {
-        background-image: url("https://funshop.akamaized.net//products/0000090658/vs_image800_5.jpg");
+        background-image: url("https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F1608290F4A2FAFA492");
     }
     .third {
-        background-image: url("https://www.cepolina.com/photo/nature/plants/asteraceae/daisy/5/daisy-violet-flower.jpg");
+        background-image: url("https://pbs.twimg.com/media/CjlNTdBUYAIbhMS.jpg");
     }
     @media (max-width: 767px) {
         .card-wrapper {

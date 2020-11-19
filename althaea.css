@@ -143,7 +143,7 @@
         padding-right: 48px;
         max-width: 1128px;
         height: 400px;
-        background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,1)), url("https://contents.sixshop.com/thumbnails/uploadedFiles/20571/product/image_1542560028369_750.jpg");
+        background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,1)), url("https://smart.science.go.kr/k3i/scienceSubject/cmm/imageView.action?file_sid=3283");
         background-size: cover;
         background-position: center; 
         text-align: right;
@@ -156,7 +156,7 @@
     }
     @media (max-width: 767px) {
         .section-explain-card {
-            background-image: linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.6)),url("https://contents.sixshop.com/thumbnails/uploadedFiles/20571/product/image_1542560028369_750.jpg");
+            background-image: linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.6)),url("https://smart.science.go.kr/k3i/scienceSubject/cmm/imageView.action?file_sid=3283");
         }
         
     }
@@ -238,13 +238,13 @@
     }
     /* 대표 이미지 넣는 곳 */
     .first {
-        background-image: url("https://t1.daumcdn.net/cfile/tistory/245B52385918FBCB04");
+        background-image: url("https://lh3.googleusercontent.com/proxy/zvrPe8WcGtaKDoidUkYbq-QPkhiYWPDXSa33_BGjBioPzc7xQzr64vKNJtAHnlsm7xwm3WUQLqPZXfXG3yM-JbXv");
     }
     .second {
-        background-image: url("https://funshop.akamaized.net//products/0000090658/vs_image800_5.jpg");
+        background-image: url("https://lh3.googleusercontent.com/proxy/hwygVyFxGmkSfSnaHA8MjBalyb90b-7ti5CBkIIXcrRU75P1WhX0ov-RXJ2-rzlnrhkCMqbWCHva0-q9nBqnZEkrVQqNWDF3fLfhdaVU6mtG7hXzxQ");
     }
     .third {
-        background-image: url("https://www.cepolina.com/photo/nature/plants/asteraceae/daisy/5/daisy-violet-flower.jpg");
+        background-image: url("https://blog.kakaocdn.net/dn/bkfpRg/btqEPeTwUyN/IuUE3pmWVbqIhNnrh1D5d0/img.jpg");
     }
     @media (max-width: 767px) {
         .card-wrapper {
